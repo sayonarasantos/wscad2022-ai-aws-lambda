@@ -1,0 +1,1 @@
+# wscad2022-ai-aws-lambda
