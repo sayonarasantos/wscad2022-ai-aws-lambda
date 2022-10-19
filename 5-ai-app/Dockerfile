@@ -10,14 +10,14 @@ RUN apt-get update && \
     unzip \
     libcurl4-openssl-dev
 
-RUN pip install --no-cache-dir awslambdaric
+RUN pip install --no-cache-dir awslambdaric boto3
 
 COPY requirements.txt  .
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY model.tflite .
+COPY model.h5 .
 
-COPY app.py .
+COPY lambda_handler.py app.py
 
 CMD [ "python", "-m", "awslambdaric", "app.lambda_handler" ]
