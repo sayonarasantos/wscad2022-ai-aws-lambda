@@ -2,7 +2,7 @@
 
 Este repositório faz parte da prática do minicurso **Inteligência Artificial e Função como Serviço: Provisionando Aplicações com o AWS Lambda**, apresentado por Sayonara S. Araújo e Francisco R. P. da Ponte no XXIII Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD 2022).
 
-Esse minicurso está disponível no [capítulo 2 do livro simpósio](https://sol.sbc.org.br/livros/index.php/sbc/catalog/view/109/489/762-1) e seus autores são Sayonara S. Araújo, Francisco R. P. da Ponte, Victória T. Oli-veira, Wendley S. da Silva, Dario Vieira, Miguel F.de Castro e Emanuel B. Rodrigues.
+Esse minicurso está disponível no [capítulo 2 do livro do WSCAD 2022](https://sol.sbc.org.br/livros/index.php/sbc/catalog/view/109/489/762-1) e seus autores são Sayonara S. Araújo, Francisco R. P. da Ponte, Victória T. Oli-veira, Wendley S. da Silva, Dario Vieira, Miguel F.de Castro e Emanuel B. Rodrigues.
 
 Lista dos exercícos:
 
