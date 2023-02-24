@@ -20,7 +20,7 @@ Lista dos exercícos:
 
 4. Criação de função com imagem de contêiner Docker
 
-    Os arquivos desse exercício estão na pasta `4-docker-image` e sua explicação está no tópico 2.5.1.5 do livro. Além disso, temos um [README](/4-docker-image\README.md) com os comandos para configuração de ambiente e criação e disponibilização da imagem.
+    Os arquivos desse exercício estão na pasta `4-docker-image` e sua explicação está no tópico 2.5.1.5 do livro. Além disso, temos um [README](/4-docker-image/README.md) com os comandos para configuração de ambiente e criação e disponibilização da imagem.
 
 5. Provisionamento da aplicação de ML no AWS Lambda
 
