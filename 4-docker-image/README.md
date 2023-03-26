@@ -68,7 +68,7 @@ aws configure
 
 ---
 
-## Desevolvimento da imagem Docker
+## Desenvolvimento da imagem Docker
 
 ### Criar imagem Docker localmente
 
